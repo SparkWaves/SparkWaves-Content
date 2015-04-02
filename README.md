@@ -14,7 +14,7 @@ Users who sign up for the course will receive a new module in their inbox each w
 These are the topics that I have been thinking of covering. If you have thoughts,
 ideas, or suggestions, let me know! Learn more about how you can contribute below.
 
-* [Electricity and Basic Tools](/1-electricity-and-basic-tools)
+* [Electricity and Basic Tools](/modules/1-electricity-and-basic-tools)
 * Resistance
 * Diodes
 * Soldering
