@@ -1,14 +1,10 @@
-#Electricity and Basic Tools
-
-All electronics are based on a couple core concepts:
+In this lesson, we will learn the fundamentals of electricity. Understanding how electricity flows is key to understand how electronics work. To learn these concepts, we are going to watch a couple videos which compare the flow of electricity to the flow of water. Using this analogy, we will get a good understanding of:
 
 * Charge
 * Current
 * Voltage
 
-In this module, we will learn what these three concepts are and how they relate
-to each other. In addition, we will look at a couple tools that let you play
-with and measure charge, current and voltage. These tools are:
+In addition, we will look at a couple tools that let you play with and measure charge, current and voltage. These tools are:
 
 * Breadboard
 * Multimeter
