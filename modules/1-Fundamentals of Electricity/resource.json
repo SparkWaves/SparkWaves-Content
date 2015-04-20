@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Basics of Electric Charge",
+    "type": "Video",
+    "url": "https://www.youtube.com/watch?v=DvlpAsDwXPY",
+    "description": "Charge is a unit of electricity. It is what flows through wires and makes things work. This quick video by Matrix Education describes what charge is, the units it is measured in, and how we can think about it.",
+  },
+  {
+    "title": "Voltage, Current, Resistance, And Ohm's Law",
+    "type": "Video",
+    "url": "https://www.youtube.com/watch?v=J4Vq-xHqUo8",
+    "description": "This video does a great job of describing voltage, current, resistance and Ohm's law. It is targeted at high school physics students, but it explains the concepts very clearly.",
+  },
+  {
+    "title": "Ohm's Laws Simulation",
+    "type": "Simulation",
+    "url": "http://www.pbslearningmedia.org/asset/hew06_int_ohmslaw/",
+    "description": "PBS has a simple simulation of Ohm's law that allows you to change the voltage and resistance in a simple circuit and see how that impacts the current.",
+  },
+  {
+    "title": "Conventional Current",
+    "type": "Video",
+    "url": "https://www.youtube.com/watch?v=Y7Uqe6DyoRU",
+    "description": "We just learned that current is the flow of electrons in a wire. However, if you look at circuit diagrams, they show positive charges (protons) flowing from positive voltage to negative voltage instead of a negative charge (electrons) flowing from a negative voltage to a positive voltage. This quick video explains why this is the case and why we don't care.",
+  },
+  {
+    "title": "Summary",
+    "type": "Article",
+    "url": "https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law",
+    "description": "SparkFun has put together an awesome article that explains all of these concepts: charge voltage, current, resistance and Ohm's law. It is a quick read and definitely worthwhile.",
+  },
+]

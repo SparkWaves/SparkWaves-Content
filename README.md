@@ -3,7 +3,7 @@
 The goal of [SparkWaves](http://www.sparkwaves.com) is to create an easy to follow and practical electronics course. Each module will consist of:
 
 * An intro
-* Awesome external content
+* Awesome external resources
 * Projects
 
 Users who sign up for the course will receive a new module in their inbox each week.
@@ -14,7 +14,7 @@ Users who sign up for the course will receive a new module in their inbox each w
 These are the topics that I have been thinking of covering. If you have thoughts,
 ideas, or suggestions, let me know! Learn more about how you can contribute below.
 
-* [Electricity and Basic Tools](/modules/1-electricity-and-basic-tools)
+* [Electricity and Basic Tools](/modules/1-Fundamentals of Electricity)
 * Resistance
 * Diodes
 * Soldering

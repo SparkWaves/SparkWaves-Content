@@ -3,8 +3,4 @@ In this lesson, we will learn the fundamentals of electricity. Understanding how
 * Charge
 * Current
 * Voltage
-
-In addition, we will look at a couple tools that let you play with and measure charge, current and voltage. These tools are:
-
-* Breadboard
-* Multimeter
+* Resistance
